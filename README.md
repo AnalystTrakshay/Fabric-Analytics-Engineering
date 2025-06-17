@@ -3,10 +3,13 @@ Getting Started with Fabric
 Microsoft Fabric is a unified analytics platform that can handle huge volumes of data, process data faster, and serve multiple use cases. It is a new offering from Microsoft that integrates into the Power BI platform and brings data integration, enterprise data warehousing, and big data analytics together.
 
 ![image](https://github.com/user-attachments/assets/3b731a59-d267-45c3-872a-69210f0d3cff)
+
 Overview of DP-600
 The Microsoft Certified: Fabric Analytics Engineer Associate certification is all about proving your skills in designing and implementing analytics solutions using Microsoft Fabric. It’s ideal for data engineers, analysts, and BI professionals who want to work with cutting-edge tools like Apache Spark, Power BI, and Fabric’s lakehouse/warehouse architecture.
 
+
 ![image](https://github.com/user-attachments/assets/5eebbeab-76f4-4f82-bab4-0980656a9653)
+
 
 Microsoft Certified: Fabric Analytics Engineer Associate
 Skills to be Measured
